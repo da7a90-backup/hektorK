@@ -1,0 +1,17 @@
+{
+  "name": "hektorkitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.8",
+    "miniflare": "^2.11.0",
+    "wrangler": "^2.10.0"
+},
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+main = "./worker.js"
+name = "hektorkitchen"
+
+compatibility_date = "2021-11-03"
+
